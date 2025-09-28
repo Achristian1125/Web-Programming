@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+h2{
+    font-size: 2rem;
+    font-weight: lighter;
+}
+h1{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+h2 {
+    text-transform: uppercase;
+}
+.transforming-text {
+    text-transform: capitalize;
+}
+h1 {
+    text-shadow: 2px 2px 4px red;
+}
+.gray-text-shadow {
+    text-shadow: 3px 3px 3px lightgray
+}
+ul {
+    list-style-type: square;
+}
+ol {
+    list-style-type: upper-roman;
+}
+p {
+    line-height: 1.6;
+}
+ul li {
+    margin-bottom: 1rem;
+}
